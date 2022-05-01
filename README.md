@@ -6,5 +6,4 @@
 
 
 ## Demo
-</br>
-![Demo](demo.gif)
+![demo](demo.gif)
